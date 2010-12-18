@@ -12,7 +12,7 @@ development:
   database: bookmarks_development
   pool: 5
   username: root
-  password: sdhare1
+  password: [password]
   socket: /tmp/mysql.sock
 
 # Warning: The database defined as "test" will be erased and
